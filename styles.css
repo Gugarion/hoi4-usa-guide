@@ -45,7 +45,10 @@
     padding-right: 15px;
     padding-top: 5px;
 }
-
+.tech_p_blue {
+    background-color: #b8e5ff;
+}
+/* 
 .tech_p {
     padding-left: 3px;
     padding-right: 3px;
@@ -83,4 +86,4 @@
 
 .right_padding {
     padding-right: 10px;
-}
+} */
